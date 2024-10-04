@@ -1,4 +1,13 @@
-site_name: Favorites
+site_name: 임시유저 포탈
+site_url: https://portal.useradd-temp.com
 
 nav:
-  - Home: index.md
+  - index.md
+
+theme:
+  name: material
+  logo: assets/logo.png
+  language: ko
+  font:
+    text: Do Hyeon
+

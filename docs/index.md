@@ -1,5 +1,1 @@
-# Hello World
-
-## foo
-
-### bar
+### Hello World
